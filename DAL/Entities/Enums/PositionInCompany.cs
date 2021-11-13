@@ -1,4 +1,4 @@
-﻿namespace DAL
+﻿namespace DAL.Enums
 {
     public enum PositionInCompany
     {
