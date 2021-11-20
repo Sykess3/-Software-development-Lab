@@ -1,6 +1,8 @@
-﻿namespace DAL.Repositories.Interfaces
+﻿using DAL.Entities;
+
+namespace DAL.Repositories.Interfaces
 {
-    public interface IEmployeeRepository
+    public interface IEmployeeRepository : IRepository<Employee>
     {
         
     }

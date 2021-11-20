@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\thesy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\thesy\\.nuget\\packages"
+    ]
+  }
+}

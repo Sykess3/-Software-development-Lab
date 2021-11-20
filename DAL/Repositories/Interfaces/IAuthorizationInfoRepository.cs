@@ -1,6 +1,8 @@
-﻿namespace DAL.Repositories.Interfaces
+﻿using DAL.Entities;
+
+namespace DAL.Repositories.Interfaces
 {
-    public interface IAuthorizationInfoRepository
+    public interface IAuthorizationInfoRepository : IRepository<AuthorizationInfo>
     {
         
     }

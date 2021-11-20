@@ -1,0 +1,12 @@
+C:\Users\thesy\RiderProjects\WebApplication\CCL\bin\Debug\net5.0\CCL.deps.json
+C:\Users\thesy\RiderProjects\WebApplication\CCL\bin\Debug\net5.0\CCL.dll
+C:\Users\thesy\RiderProjects\WebApplication\CCL\bin\Debug\net5.0\ref\CCL.dll
+C:\Users\thesy\RiderProjects\WebApplication\CCL\bin\Debug\net5.0\CCL.pdb
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.csprojAssemblyReference.cache
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.AssemblyInfoInputs.cache
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.AssemblyInfo.cs
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.csproj.CoreCompileInputs.cache
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.dll
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\ref\CCL.dll
+C:\Users\thesy\RiderProjects\WebApplication\CCL\obj\Debug\net5.0\CCL.pdb
